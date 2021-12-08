@@ -12,7 +12,7 @@ Graphics:
 Multi-thread:
 * Philosophers (Unix)
 
-Unix:
+Unix & Algorithms:
 * Minishell
 * Pipex
 
