@@ -1,5 +1,5 @@
 # school-21
-Projects from school 21(Ecole 42)
+Projects from school 21(Ecole 42)C/C++
 
 С++ Projects & OOP:
 * CPP
